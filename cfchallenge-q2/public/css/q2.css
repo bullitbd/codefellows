@@ -1,0 +1,50 @@
+body {
+		background-color: #2f2a2a;
+	    font-family: Raleway;
+	    margin-top: 30px;
+
+}
+#container {
+	width: 800px;
+	height: 500px;
+	margin: 0 auto;
+	//background-color: #A6ECD8;
+	background-image: url("https://eliseandjeff.files.wordpress.com/2013/06/dsc_0338_2.jpg");
+	background-size: cover;
+}
+
+#headlogo {
+	width: 60%;
+	margin: 0 auto;
+
+}
+#cflogo {
+	height: auto;
+	width: 100%;
+}
+h3 {
+	display: block;
+    font-style: italic;
+    margin-top: -50px;
+    padding-left: 50px;
+    padding-bottom:20px;
+    text-align: center;
+}
+p {
+	font-size: 1.1em;
+    font-weight: normal;
+    line-height: 1.3em;
+    padding: 0 70px;
+}
+.first {
+	padding-right: 200px;
+}
+.second {
+	color: #ffd;
+    font-size: 1.2em;
+    margin-top: 90px;
+    font-family: "gill sans mt", sans-serif;
+}
+footer {
+	height:30px;
+}
